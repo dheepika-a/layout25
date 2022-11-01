@@ -1,0 +1,466 @@
+    .headera .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+   .logo .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.service .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.paritur .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.la .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.built .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.ta .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.website .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.contactus .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+
+ .headera
+{
+	background-color:beige;
+	height:81px;
+}
+.headera .headera-fc
+{
+	display:flex;
+
+	background-color:beige;
+	height:81px;
+	justify-content:space-between;
+	
+}
+.headera .headera-fc .heada
+{
+	background-color:orange;
+	height:40px;
+	width:15%;
+	margin-top:10px;
+	
+}
+
+.headera .headera-fc .headb
+{
+	background-color:orange;
+	height:40px;
+	width:15%;
+		margin-top:15px;
+}
+.logo
+{
+		background-color:beige;
+	height:533px;
+}
+.logo .logo-fc
+{
+    display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+
+.logo .logo-fc .logoa
+{
+
+	background:blue;
+	height:470px;
+	width:60%;
+		display:flex;
+		flex-direction:row;
+		
+	
+}
+
+.logo .logo-fc .logoa .logob
+{
+	background-color:red;
+	width:60%;
+	margin-top:300px;
+	height:70px;
+}
+
+.logo .logo-fc .logobox
+{
+	background-color:lightblue;
+	width:40%;
+	height:470px;
+}
+
+
+
+
+.service
+{
+		background-color: lightblue;
+	height:600px;
+}
+.service .service-fc
+
+{
+	display:flex;
+	justify-content:space-between;
+	flex-direction:row;
+	flex-wrap:wrap;
+
+}
+.service .service-fc .ser
+{
+	text-align:center;
+margin-top:50px;
+width:100%
+}
+.service .service-fc .tempa 
+
+{
+	background-color:orange;
+	height:100px;
+	width:45%;
+	margin-top:15px;
+
+}
+.service .service-fc .tempb
+{
+	background-color:orange;
+	height:100px;
+	width:45%;
+	margin-top:15px;
+
+}
+.service .service-fc .tempc
+{
+		background-color:orange;
+	height:100px;
+		width:45%;
+	margin-top:15px;
+}
+.service .service-fc .tempd
+{
+	background-color:orange;
+	height:100px;
+		width:45%;
+	margin-top:15px;
+}
+.service .service-fc .tempd
+{
+		background-color:orange;
+	height:100px;
+		width:45%;
+	margin-top:15px;
+}
+.service .service-fc .tempe
+{
+	background-color:orange;
+	height:100px;
+		width:45%;
+	margin-top:15px;
+}
+.service .service-fc .tempf
+{
+		background-color:orange;
+	height:100px;
+		width:45%;
+	margin-top:15px;
+}
+.paritur
+{
+		background-color:lavender;
+		 height:500px;
+}
+
+.paritur .paritur-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+} 
+
+.paritur .paritur-fc .pbox
+{
+    background-color:coral;
+	width:45%;
+	height:400px;
+	margin-top:25px;
+}
+.paritur .paritur-fc .ptext
+{
+	text-align:center;
+    margin-top:25px;
+	
+	
+}
+
+.ta
+{
+		background-color:lightgreen;
+	height:700px;
+} 
+
+.ta .ta-fc
+{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-evenly
+}
+
+.ta .ta-fc .teampa
+{
+	background-color:lightpink;
+	height:300px;
+		width:31%;
+		margin-top:30px;
+}
+.ta .ta-fc  .teampb
+{
+
+	background-color:lightpink;
+	height:300px;
+		width:31%;
+		margin-top:30px;
+}
+.ta .ta-fc .teampc
+{
+
+
+	background-color:lightpink;
+	height:300px;
+		width:31%;
+		margin-top:30px;
+}
+
+.ta .ta-fc .teampd
+{
+
+	background-color:lightpink;
+	height:300px;
+		width:31%;
+		margin-top:30px;
+}
+
+.ta .ta-fc .teampe
+{
+
+	background-color:lightpink;
+	height:300px;
+		width:31%;
+		margin-top:30px;
+}
+.ta .ta-fc .teampf
+{
+	
+	background-color:lightpink;
+	height:300px;
+		width:31%;
+		margin-top:30px;
+}
+
+
+.built 
+{
+	background-color:lightyellow;
+	height:420px;
+}
+.built .built-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+}
+.built .built-fc .builttext
+{
+	text-align:center;
+	width:100%;
+	margin-top:20px;
+}
+.built .built-fc .builtboxa
+{
+background:violet;
+	height:350px;
+	width:60%;
+	margin-top:20px;
+}
+.la
+{
+		background-color:lightgreen;
+	height:350px;
+} 
+
+.la .la-fc
+{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-evenly
+}
+
+.la .la-fc .teampa
+{
+	background-color:red;
+	height:300px;
+		width:31%;
+		margin-top:30px;
+}
+.la .la-fc  .teampb
+{
+
+	background-color:red;
+	height:300px;
+		width:31%;
+		margin-top:30px;
+}
+.la .la-fc .teampc
+{
+
+
+	background-color:red;
+	height:300px;
+		width:31%;
+		margin-top:30px;
+}
+
+.la .la-fc .teampd
+{
+
+	background-color:red;
+	height:300px;
+		width:31%;
+		margin-top:30px;
+}
+
+.la .la-fc .teampe
+{
+
+	background-color:red;
+	height:300px;
+		width:31%;
+		margin-top:30px;
+}
+.la .la-fc .teampf
+{
+	
+	background-color:red;
+	height:300px;
+		width:31%;
+		margin-top:30px;
+}
+.contactus
+{
+	background-color:beige;
+	height:615px;
+}
+.contactus .contactus-fc
+{
+display:flex;
+flex-direction:row;
+justify-content:space-evenly;
+flex-wrap:wrap;	
+}
+.contactus .contactus-fc .context
+{
+	text-align:center;
+	margin-top:10px;
+	width:100%;
+}
+
+.contactus .contactus-fc .cona
+{
+	background-color:yellow;
+	height:500px;
+	width:40%;
+	margin-top:10px;
+		display:flex;
+		flex-direction:row;
+		flex-wrap:wrap;	
+		justify-content:space-evenly;
+		
+}
+.contactus .contactus-fc .cona .conaa
+{
+	background-color:lightblue;
+	height:100px;
+	width:100%;
+	margin-top:20px;
+}
+.contactus .contactus-fc  .cona .conab
+{
+	background-color:lightblue;
+	height:100px;
+	width:100%;
+	margin-top:20px;
+}
+.contactus .contactus-fc .cona .conac
+{
+	background-color:lightblue;
+	height:100px;
+	width:100%;
+	margin-top:20px;
+}
+
+.contactus .contactus-fc .conb
+{
+	background-color:lightblue;
+	height:500px;
+	width:40%;
+	margin-top:10px;
+		display:flex;
+		flex-direction:row;
+		flex-wrap:wrap;	
+		justify-content:space-evenly;
+		
+}
+
+.contactus .contactus-fc .conb .conba
+{
+	background-color:crimson;
+	height:30px;
+	width:40%;
+	margin-top:400px;
+}
+
+.website
+{
+	background-color :coral;
+	height:100px;
+}
+.website .website-fc
+{
+	display:flex;
+	justify-content:center;
+}
+.website .website-fc .copyrighta
+{
+	background-color:mistyrose;
+	width:30%;
+	height:35px;
+	margin-top:50px;
+}
+
+
+
